@@ -1,0 +1,55 @@
+####################################
+# Unreal Engine
+####################################
+
+# Build & generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# VS / Rider / IDE
+.vs/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.user
+*.vcxproj*
+*.xcodeproj
+*.xcworkspace
+
+# Unreal temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.old
+
+####################################
+# OS
+####################################
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+####################################
+# Packaging
+####################################
+
+# Packaged builds
+Build/
+Dist/
+
+####################################
+# Optional (plugins build cache)
+####################################
+
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
